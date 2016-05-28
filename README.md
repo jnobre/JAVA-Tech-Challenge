@@ -4,9 +4,10 @@ BlipTest Java
 Implementação um microservice com 3 operações possiveis, a primeira obtem todas as aquisições válidas, a segunda actualiza a quantidade de produtos de uma aquisção e por último o armazenamento de uma nova aquisição.  <br /><br />
 
 Run:<br />
-	- Classe main está localizada no package main.WebServer <br />
-	- WebServer esta escuta no URL: http://localhost:8000/blipTest <br />
-    - Parametros na chamado do serviço: <br />
+
+	1. Classe main está localizada no package main.WebServer <br />
+	2. WebServer esta escuta no URL: http://localhost:8000/blipTest <br />
+    3. Parametros na chamado do serviço: <br />
     	3.1. operation=1 : fectch valid purchase <br />
     	3.2. operation=2 : actualizar a quantidade de produtos vendidos numa aquisição <br />
     		3.2.1. idPurchase=134 : actualizar aquisição com o  id = 134 <br />

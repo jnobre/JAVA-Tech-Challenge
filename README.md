@@ -1,4 +1,4 @@
-BlipTest Java
+Challenge Java
 ================================
 
 Implementação um microservice com 3 operações possiveis, a primeira obtem todas as aquisições válidas, a segunda actualiza a quantidade de produtos de uma aquisção e por último o armazenamento de uma nova aquisição.  <br /><br />
